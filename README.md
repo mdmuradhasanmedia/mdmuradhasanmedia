@@ -1,19 +1,27 @@
-# Project Title
+<h1 align="center">Hi 👋, I'm Md Murad Hasan</h1>
+<h3 align="center">Welcome to my GitHub profile</h3>
 
-Description of the project.
+<p align="center">
+  I’m passionate about building useful web experiences and continuously learning modern technologies.
+</p>
 
-## Installation
+---
 
-Instructions on how to install and run the project.
+### 👨‍💻 About Me
+- 🌱 Currently learning and improving every day
+- 💼 Open to collaboration on interesting projects
+- 📫 Reach me through the links below
 
-## Usage
+### 🛠️ Skills
+- Frontend: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-Instructions on how to use the project.
+### 📊 GitHub Stats
+![Md Murad Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmuradhasanmedia&show_icons=true&theme=default)
 
-## License
+### 🔗 Connect With Me
+- GitHub: [@mdmuradhasanmedia](https://github.com/mdmuradhasanmedia)
 
-Information about the project license.
+---
 
-## Contributing
-
-Guidelines for contributing to the project.
+⭐ Thanks for visiting my profile!
