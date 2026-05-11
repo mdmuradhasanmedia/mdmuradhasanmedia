@@ -17,7 +17,7 @@
 - Tools: Git, GitHub, VS Code
 
 ### 📊 GitHub Stats
-![Md Murad Hasan GitHub statistics showing activity and contributions](https://github-readme-stats.vercel.app/api?username=mdmuradhasanmedia&show_icons=true&theme=default)
+![Md Murad Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmuradhasanmedia&show_icons=true&theme=default)
 
 ### 🔗 Connect With Me
 - GitHub: [@mdmuradhasanmedia](https://github.com/mdmuradhasanmedia)
