@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently learning and improving every day
 - 💼 Open to collaboration on interesting projects
-- 📫 Reach me: **mdmuradhasanmedia@gmail.com**
+- 📫 Reach me on GitHub: [@mdmuradhasanmedia](https://github.com/mdmuradhasanmedia)
 
 ### 🛠️ Skills
 - Frontend: HTML, CSS, JavaScript
