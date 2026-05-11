@@ -1,5 +1,5 @@
 <!-- 
-  UNIQUE HIGH-TECH DEVELOPER DASHBOARD
+  UNIQUE HIGH-TECH DEVELOPER DASHBOARD - AUTHENTIC VERSION
   User: Md Murad Hasan
   Vibe: Minimalist / High-Tech / Authority
 -->
@@ -15,12 +15,12 @@
     <td width="60%" valign="top">
       <h1><img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/hi.gif" width="30px"> <code>SYSTEM.INIT()</code></h1>
       <p><b>> MD MURAD HASAN</b><br/>
-      <b>> ROLE:</b> FULL-STACK ENGINEER / TECH ARCHITECT<br/>
-      <b>> LOCATION:</b> BANGLADESH / REMOTE<br/>
-      <b>> STATUS:</b> BUILDING THE FUTURE</p>
+      <b>> ROLE:</b> FULL-STACK DEVELOPER / AUTOMATION EXPERT<br/>
+      <b>> LOCATION:</b> BANGLADESH<br/>
+      <b>> STATUS:</b> ARCHITECTING SCALE</p>
       
       <p align="justify">
-        I specialize in bridging the gap between complex backend logic and intuitive frontend experiences. My philosophy is rooted in <i>"Atomic Development"</i>—building small, robust, and scalable components that form a powerful whole.
+        I specialize in building high-performance automation tools and web utilities. My expertise ranges from Android app optimization to crafting complex web scraping and metadata extraction systems. I focus on efficiency, reliability, and delivering tools that solve real-world problems.
       </p>
     </td>
     <td width="40%" valign="middle" align="center">
@@ -31,33 +31,33 @@
 
 ---
 
-### 🛠️ CONTROL PANEL (TECH STACK)
+### 🛠️ CONTROL PANEL (CORE STACK)
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200"><b>FRONTEND CORE</b></td>
-      <td align="center" width="200"><b>BACKEND & CLOUD</b></td>
-      <td align="center" width="200"><b>SYSTEM TOOLS</b></td>
+      <td align="center" width="200"><b>WEB & UI</b></td>
+      <td align="center" width="200"><b>AUTOMATION & SCRIPTING</b></td>
+      <td align="center" width="200"><b>MOBILE & TOOLS</b></td>
     </tr>
     <tr>
       <td>
         <code>● HTML5 / CSS3</code><br/>
-        <code>● JAVASCRIPT (ES6+)</code><br/>
-        <code>● REACT / NEXT.JS</code><br/>
-        <code>● TAILWIND CSS</code>
+        <code>● JAVASCRIPT</code><br/>
+        <code>● UI/UX REPLICATION</code><br/>
+        <code>● RESPONSIVE DESIGN</code>
       </td>
       <td>
-        <code>● NODE.JS / EXPRESS</code><br/>
-        <code>● FIREBASE / VERCEL</code><br/>
-        <code>● RESTFUL APIs</code><br/>
-        <code>● MONGODB</code>
+        <code>● PYTHON SCRIPTING</code><br/>
+        <code>● WEB SCRAPING</code><br/>
+        <code>● TASK AUTOMATION</code><br/>
+        <code>● API INTEGRATION</code>
       </td>
       <td>
+        <code>● JAVA / ANDROID</code><br/>
         <code>● GIT / GITHUB</code><br/>
-        <code>● VS CODE / TERMINAL</code><br/>
-        <code>● DOCKER / CI/CD</code><br/>
-        <code>● LINUX / POWERSHELL</code>
+        <code>● VS CODE</code><br/>
+        <code>● TERMINAL / LINUX</code>
       </td>
     </tr>
   </table>
@@ -86,21 +86,22 @@
 
 ---
 
-### 📂 RECENT DEPLOYMENTS
+### 📂 MISSION CRITICAL DEPLOYMENTS (REAL PROJECTS)
 
-<!-- Replace with your real project names and links -->
-- ⚡ **[Project Alpha]** - *High-performance SaaS architecture built with Next.js.*
-- 🛡️ **[Project Beta]** - *Encrypted data management system for enterprise clients.*
-- 🌐 **[Project Gamma]** - *Interactive real-time collaboration platform.*
+- 🚀 **[SMS-XBOMBER](https://github.com/mdmuradhasanmedia/SMS-XBOMBER)** - *High-performance SMS automation app for Android, optimized for performance.*
+- 🛠️ **[yt-tools](https://github.com/mdmuradhasanmedia/yt-tools)** - *Advanced YouTube metadata extractor for titles, descriptions, and tags.*
+- 🐍 **[BOMB-SMS](https://github.com/mdmuradhasanmedia/BOMB-SMS)** - *Python-powered SMS automation and scripting tool.*
+- 👥 **[FACEBOOK-CLONE](https://github.com/mdmuradhasanmedia/FACEBOOK-CLONE)** - *Deep-dive into UI/UX replication using Python-based frameworks.*
+- 🌐 **[Portfolio](https://github.com/mdmuradhasanmedia/portfolio)** - *Personal hub showcasing development milestones and technical skills.*
 
 ---
 
 ### 🔗 CONNECT.SYS
 
 <div align="center">
+  <a href="https://github.com/mdmuradhasanmedia"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 <br/>
